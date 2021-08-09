@@ -45,4 +45,4 @@
 #         num = int(num)
 #         # print(num, type(num))
 #         lst.append(num)
-# print(lst)
+print(lst)
